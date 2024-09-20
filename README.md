@@ -11,3 +11,6 @@ npm run dev
 
 ## Backend
 Backend is built using Java SpringBoot / Maven
+### Dev
+cd backend
+./mvnw spring-boot:run
