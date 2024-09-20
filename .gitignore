@@ -65,3 +65,5 @@ frontend/*.tsbuildinfo
 
 frontend/test-results/
 frontend/playwright-report/
+
+backend/src/main/resources/secrets.properties
