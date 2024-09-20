@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import GrabConsumption from '../components/GrabConsumption.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+  <GrabConsumption />
   </main>
 </template>
